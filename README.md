@@ -1,5 +1,5 @@
 # TG-RENAMER-BOT
-## Rename Bot - Clone of  [Renamer⚡](https://t.me/renamer_Ns_bot)
+## Rename Bot - Property of  [ONEDU⚡](https://t.me/ONEDUALL)
 ---
 
 An Open Source Rename Telegram RoBot
