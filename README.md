@@ -39,7 +39,7 @@ cp sample_config.py config.py
 python bot.py
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@anonymousbotdiscussion](https://telegram.dog/anonymousbotdiscussion)
+- For FeedBack and Suggestions, please feel free to say in [@Onedu-Discusion](https://t.me/onedu_al)
 
 #### LICENSE
 - GPLv3
